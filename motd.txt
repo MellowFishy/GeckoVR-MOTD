@@ -1,1 +1,1 @@
-Hello Geckos! This is the launch of the Gecko VR Game!
+Hello Geckos! This is the launch of the Gecko VR Game! Once you load in, your hands may be stuck in the ground, so in that case relaunch and put your hands up, and if you aren't joining a lobby, you need to relaunch and check by putting your hands against the wall and pushing, if you see another hand, that means you should be joining a lobby.
